@@ -1,0 +1,67 @@
+#idMain{
+  width:960px;
+	height:600px;
+	margin: 0px auto;
+	background-color:#20B2AA;
+  position: relative;
+}
+
+
+h1{
+  text-align: center;
+  padding-bottom: 10px;
+  font-family: "Impact";
+}
+
+#idForm{
+  width: 400px;
+  height: 200px;
+  border: 5px solid #fff;
+  background-color: #008B8B;
+  position: absolute;
+  padding: 10px;
+  margin-left: 27%;
+
+
+}
+
+#imgPessoas{
+  display: inline-block;
+  width: 700px;
+  position: absolute;
+  margin-top: 100px;
+  left: -150px;
+
+
+}
+
+label{
+  font-weight: bold;
+  margin-left: 5px;
+  width: 70px;
+  display: inline-block;
+  font-family: "Calibri";
+  padding-bottom: 20px;
+}
+
+input[type=text]{
+	width: 210px;
+	padding: 5px;
+	}
+
+p{
+  font-family: "Impact";
+  text-align: center;
+  font-weight:bold;
+  font-size: 20px;
+
+}
+
+#idCalcular{
+  padding: 5px 15px;
+  border-radius: 3px;
+  font-size: 15px;
+  background-color: #000;
+  color: #fff;
+
+}
